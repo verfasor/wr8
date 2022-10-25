@@ -28,8 +28,27 @@ wr8 comes with no warranty whatsoever. I'm not a full-time developer and am not 
 
 I didn't create the original React renderer. You can fork the wr8 repo and do whatever with it. And if you really enjoy using wr8 out of the box, [donations](https://liberapay.com/verfasor/) are appreciated. Alternatively, you could consider buying my [music](https://signalsiren.bandcamp.com/) to show support. I make synthwave and electronica in general. Thank you.
 
-<img src="https://img.shields.io/liberapay/receives/verfasor.svg?logo=liberapay">
-
 ## License
 - MIT wr8 © [Verfasor](https://verfasor.com)
 - MIT Next.js Notion Starter Kit © [Travis Fischer](https://transitivebullsh.it)
+
+<p> 
+  <a href="https://mp.mt/">
+    <img src="https://img.shields.io/badge/whois-mp.mt-red" />
+  </a>  
+  <a href="https://verfasor.com/">
+    <img src="https://img.shields.io/badge/blog-verfasor.com-blueviolet" />
+  </a>        
+  <a href="https://wr8.in/">
+    <img src="https://img.shields.io/badge/start-wr8.in-green" />
+  </a> 
+  <a href="mailto:verfasor@deadauthor.org">
+    <img src="https://img.shields.io/badge/contact-email-important" />
+  </a>   
+<a href="https://twitter.com/verfasor">
+    <img src="https://img.shields.io/twitter/follow/verfasor?style=social" /> 
+</a>
+<a href="https://github.com/verfasor">
+    <img src="https://img.shields.io/github/followers/verfasor?label=verfasor&logo=GitHub&style=social" />
+</a>  
+</p>

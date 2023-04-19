@@ -16,6 +16,15 @@ The wr8 website template is minimal and SEO-focused, a combo many bloggers and w
 
 Visit: [https://wr8.in/](https://wr8.in/)
 
+## Local
+
+This project requires a recent version of Node.js (>= 16).
+
+1. Fork / clone this repo
+2. Change a few values in site.config.ts
+3. `npm install`
+4. `npm run dev` to test locally
+
 ## Free wr8.in subdomain
 
 I'd be happy to provide custom subdomain mapping. Feel free to point your Vercel project to <code>example.wr8.in</code> of your choice. Available on [request](https://tally.so/r/3Npa5l). wr8.in domain registration is valid till 2032, so you're in safe hands for at least ten years.

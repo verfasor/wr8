@@ -18,9 +18,9 @@ export default siteConfig({
   description: 'This is a demo website created with wr8.',
 
   // social usernames (optional)
-  twitter: 'verfasor',
+  twitter: 'jotzilla',
   github: 'verfasor',
-  linkedin: 'verfasor',
+  linkedin: 'mighil',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 

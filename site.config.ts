@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'wr8 Demo',
   domain: 'demo.wr8.in',
-  author: 'Verfasor',
+  author: 'Mighil',
   seotitle: 'Demo Site Created with wr8',
 
   // open graph metadata (optional)

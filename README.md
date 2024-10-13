@@ -31,7 +31,7 @@ I'd be happy to provide custom subdomain mapping. Feel free to point your Vercel
 
 ## Warranty
 
-wr8 comes with no warranty whatsoever. I'm not a full-time developer and am not well versed in React. I've shown you what you can do with wr8. Take it up a notch if you like.
+wr8 comes with no warranty whatsoever.
 
 ## Donations
 
